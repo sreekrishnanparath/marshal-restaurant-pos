@@ -1,7 +1,5 @@
-# marshal-restaurant-pos
-
-https://user-images.githubusercontent.com/27639667/141010759-f9009a49-87b5-4af9-a50c-d12bb08958de.png
-![screenshot-1636414959768](https://user-images.githubusercontent.com/27639667/141011076-5966facc-9421-4693-b63f-0f7d2bd2f068.png)
-![screenshot-1636414983225](https://user-images.githubusercontent.com/27639667/141011079-971cba9f-60ac-42a2-a3ea-7af164666544.png)
-![screenshot-1636414928090](https://user-images.githubusercontent.com/27639667/141011082-113186ae-3ccd-4b5b-bf26-46da71971faa.png)
-![screenshot-1636414948625](https://user-images.githubusercontent.com/27639667/141011084-c772c1c6-17ee-4cbb-b21b-86217dee92a2.png)
+Restaurant POS application
+---------------------------------------------![screenshot-1636414928090](https://user-images.githubusercontent.com/27639667/141011221-06143f93-7dbb-4dca-af42-b98296d690c8.png)
+![screenshot-1636414948625](https://user-images.githubusercontent.com/27639667/141011230-1e04494d-1ce7-4a25-b782-c39c21ec39bc.png)
+![screenshot-1636414959768](https://user-images.githubusercontent.com/27639667/141011236-7b8e29c1-55bb-4eae-807e-84a1bfeabde3.png)
+![screenshot-1636414983225](https://user-images.githubusercontent.com/27639667/141011241-a0d32c77-c346-4049-ab2b-d5bd57dad052.png)
